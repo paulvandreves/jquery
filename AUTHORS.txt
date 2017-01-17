@@ -1,5 +1,4 @@
 Authors ordered by first contribution.
-
 John Resig <jeresig@gmail.com>
 Gilles van den Hoven <gilles0181@gmail.com>
 Michael Geary <mike@geary.com>
@@ -9,6 +8,7 @@ Corey Jewett <cj@syntheticplayground.com>
 Klaus Hartl <klaus.hartl@gmail.com>
 Franck Marcia <franck.marcia@gmail.com>
 Jörn Zaefferer <joern.zaefferer@gmail.com>
+Paul Van Dyke <gboss0352@gmail.com> 
 Paul Bakaus <paul.bakaus@gmail.com>
 Brandon Aaron <brandon.aaron@gmail.com>
 Mike Alsup <malsup@gmail.com>
